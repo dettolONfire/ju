@@ -1,0 +1,6 @@
+{
+  "name": "University ERP and Online Examination Portal",
+  "description": "A comprehensive student and faculty ERP portal with exam play, test management, attendance sheets, announcements, and performance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
